@@ -1,0 +1,28 @@
+{
+    "name": "leiwenpeng0424.github.io",
+    "description": "Personal Github Page",
+    "scripts": {
+        "build": "gmf bundle --clean --test",
+        "start": "gmf bundle --watch"
+    },
+    "devDependencies": {
+        "@jest/core": "^28.1.2",
+        "@nfts/eslint-config": "^1.1.3",
+        "@nfts/gmf": "^0.0.4",
+        "@nfts/plugin-webpack": "^0.0.2",
+        "@nfts/project-profiles": "^0.0.1",
+        "@types/jest": "^28.1.4",
+        "@types/node": "^18.0.3",
+        "@types/react": "^18.0.15",
+        "@types/react-dom": "^18.0.6",
+        "prettier": "^2.7.1"
+    },
+    "dependencies": {
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0"
+    },
+    "browserslist": [
+        "> 0.1%",
+        "not dead"
+    ]
+}
